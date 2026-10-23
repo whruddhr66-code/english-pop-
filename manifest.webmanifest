@@ -1,0 +1,20 @@
+{
+  "name": "English Pop! — 나 혼자 영어 미션",
+  "short_name": "English Pop!",
+  "description": "초등학생을 위한 하루 10~15분 영어 미션 앱",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6ff",
+  "theme_color": "#6558d9",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
